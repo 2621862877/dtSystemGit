@@ -1,4 +1,4 @@
--- 角色表
+-- 角色表jiang
 create table t_role
 (
   role_id   int primary key auto_increment,--角色编号，主键序列
